@@ -8,7 +8,7 @@ from aiogram.types import (
 from aiogram.filters import CommandStart
 
 # ⚠️ Вставь сюда свой токен, но не публикуй его в открытых местах!
-TOKEN = "токен"
+TOKEN = "7494203016:AAEopdG_EB-t35SbkfGqYjp9fgXXay7jPHM"
 
 # URL изображения для приветственного сообщения (замени на свою ссылку)
 IMAGE_URL = "https://i.postimg.cc/CLhRSDJp/photo-2025-02-11-20-49-13.jpg"  # <-- Укажи ссылку на изображение
